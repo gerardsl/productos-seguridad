@@ -1,6 +1,6 @@
-# Google Cloud Security -> recursos
+# Google Cloud Security
 
-## Table of Contents ### 
+## Contenido ### 
 
 ### 🛡️ Google Threat Intelligence
 - [¿Qué es?](https://youtu.be/Iufl39OSsP4)
