@@ -3,6 +3,7 @@
 ### 🛡️ Google Threat Intelligence: tu nueva plataforma de inteligencia
 - [¿Qué es?](https://youtu.be/Iufl39OSsP4)
 - [Demo](https://youtu.be/O3AQMylYdK0)
+- [Agentic GTI](https://youtu.be/Wq9LtW0qxaQ)
 
 ### 🚨 Security Command Center: tu nuevo CNAPP
 - [¿Qué es?](https://youtu.be/EyaCcOYUDKg)
