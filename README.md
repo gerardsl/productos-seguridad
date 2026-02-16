@@ -23,3 +23,6 @@
 ### 🕸️ Google Web Risk: tu forma de proteger tu marca y 5.000 millones de dispositivos
 - [¿Qué es?](https://youtu.be/PcYWEeKhCBY)
 - [Demo](https://youtu.be/Dk3b2VsNv74)
+
+### Technical questions
+- [Send Emails from Google SecOps Without Domain-Wide Delegation (SMTP Relay Method) [ENG]](https://youtu.be/e3J2qMaBnmY)
