@@ -24,5 +24,6 @@
 - [¿Qué es?](https://youtu.be/PcYWEeKhCBY)
 - [Demo](https://youtu.be/Dk3b2VsNv74)
 
-### Technical questions
+
+### Technical questions, solved :)
 - [Send Emails from Google SecOps Without Domain-Wide Delegation (SMTP Relay Method) [ENG]](https://youtu.be/e3J2qMaBnmY)
